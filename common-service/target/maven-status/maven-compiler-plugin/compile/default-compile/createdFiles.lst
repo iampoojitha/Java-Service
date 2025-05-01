@@ -1,0 +1,5 @@
+com\common_service\constants\HistoricalSensors.class
+com\common_service\CommonServiceApplication.class
+com\common_service\config\AppConfig.class
+com\common_service\dto\SensorDataDto.class
+com\common_service\constants\InstantaneousSensors.class
